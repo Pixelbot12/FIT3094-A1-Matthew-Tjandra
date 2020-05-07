@@ -7,3 +7,6 @@
  
  
  Student Email: mtja0001@student.monash.edu
+
+
+The zip file is my zipped up Unreal Project, which just needs to have the VS files generated.
